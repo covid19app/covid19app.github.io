@@ -97,7 +97,7 @@ Nicméně k tomu co jsem slyšel o probíhajích projektech se musím zeptat co 
 
 ## Zkuste aplikaci ještě dnes!
 
-[https://covid19app.org/czech/demo](https://covid19app.org/czech/demo)
+[https://www.covid19app.org/czech/demo](demo)
 
 Není to samozřejmě perfektní, ale funguje to. Symptomy, doporučení, notifikace výsledků a ještě víc si můžete zkusit ještě dnes. Můžeme to používat v ostrém provozu ještě tenhle týden. Co myslíte? Dává to smysl? Máte lepší nápad? Sem s ním!
 
